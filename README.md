@@ -10,7 +10,7 @@ Welcome to the Calculator project! This is a simple yet functional calculator bu
 
 ## Demo
 
-You can see a live demo of the calculator [here]([https://calcuverse.vercel.app/]).
+You can see a live demo of the calculator [here](https://calcuverse.vercel.app/).
 
 ## Installation
 
