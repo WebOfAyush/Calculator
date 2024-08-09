@@ -35,5 +35,4 @@ To run this project locally, follow these steps:
 - Use the buttons to perform basic arithmetic operations.
 - The display will show the current input and results.
 
-## Project Structure
 
